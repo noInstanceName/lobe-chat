@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: '0 0 30 2 *'
 
+disabled: true
+
 permissions:
   contents: read
 
